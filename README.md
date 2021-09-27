@@ -10,7 +10,7 @@ Atualmente moro em Vitória da Conquista - BA
 </div>
 
 ##
-### Stacks
+### SKILLS
 + Python
 + Django
 + Docker
