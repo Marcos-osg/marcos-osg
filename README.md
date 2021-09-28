@@ -5,8 +5,8 @@ Atualmente moro em Vitória da Conquista - BA
 ##
 
 <div>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=marcos-osg&theme=gotham&show_icons=true" />
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-osg&theme=gotham&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcos-osg&theme=gotham&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-osg&theme=gotham&layout=compact" />
 </div>
 
 ##
