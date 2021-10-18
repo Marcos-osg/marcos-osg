@@ -1,6 +1,7 @@
 ### Olá, me chamo Marcos Oliveira 
 Sou Desenvolvedor Python | Django <br>
-Atualmente moro em Vitória da Conquista - BA
+Atualmente moro em Vitória da Conquista - BA <br>
+Apaixonado por computadores desde os 9 anos <br>
 
 ##
 
