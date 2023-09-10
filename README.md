@@ -21,6 +21,13 @@
 ##
 
 <a href="https://www.linkedin.com/in/marcos-sousa-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<br>
+
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/marcos-osg/count.svg" /></p>
+<p align="center">
+Obrigado pela visita 😁
 <!--
 **Marcos-osg/marcos-osg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
