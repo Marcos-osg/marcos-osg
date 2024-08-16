@@ -1,7 +1,7 @@
 ### **Desenvolvedor Python | Django** <br>
 *Vitória da Conquista - Bahia - Brasil* <br>
 
-- Desenvolvedor Junior
+- Desenvolvedor Pleno
 
 ##
 
